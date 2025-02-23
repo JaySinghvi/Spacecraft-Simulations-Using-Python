@@ -1,6 +1,1 @@
-# Spacecraft-Simulations-Using-Python
-1. Developed four different spacecraft simulations using Python, inspired by the Kerbal Space Program game.
-2. Demonstrated the difference between projectile motion on a flat Earth surface and in Newtonian gravity through detailed simulations.
-3. Simulated a two-stage rocket around a planet called Kerbin, representing Earth in the game.
-4. Showcased the effects of aerodynamics on the projectile of the two-stage rocket, illustrating significant changes in altitude and speed.
-5. Utilized advanced Python libraries for numerical computations and data visualization to enhance the accuracy and presentation of the simulations.
+This project involved building four spacecraft simulations in Python, inspired by Kerbal Space Program, to explore real-world physics principles. It demonstrated the differences between flat Earth projectile motion and Newtonian gravity, providing key insights into trajectory behavior. A two-stage rocket simulation was implemented around Kerbin (Earth-equivalent) to analyze propulsion and aerodynamic effects, revealing significant impacts on altitude and velocity. The project leveraged advanced Python libraries for numerical computation and visualization, ensuring precise and well-presented results.
